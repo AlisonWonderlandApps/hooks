@@ -1,3 +1,29 @@
+Design decisions:
+
+- hooks
+- navigation
+- package manager
+- folder structure
+- styling & ui
+- version control
+- testing (Jest)
+- packaging (docker)
+- CICD ()
+
+
+Resources for design decisions:
+
+
+
+
+
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
